@@ -6,27 +6,33 @@
     -->
     <group android:checkableBehavior="single">
 
-        <item android:title="欢笑论坛"
+        <item
+            android:id="@+id/item_luentan"
             android:icon="@mipmap/lt_icon"
-            android:id="@+id/item_luentan" />
-        <item android:title="我的主页"
-            android:icon="@mipmap/touxian_icoon"
+            android:title="欢笑论坛"/>
+        <item
             android:id="@+id/item_mycenter"
+            android:icon="@mipmap/touxian_icoon"
+            android:title="我的主页"
+            android:visible="false"
             />
-        <item android:title="设置"
-            android:icon="@mipmap/set"
+        <item
             android:id="@+id/item_setting"
-           />
+            android:icon="@mipmap/set"
+            android:title="设置"
+            />
     </group>
 
     <item android:title="其他">
-        <menu >
-            <item android:title="应用商店"
+        <menu>
+            <item
                 android:id="@+id/item_yule"
-                android:icon="@mipmap/game_sb_icon"/>
-            <item android:title="退出应用"
+                android:icon="@mipmap/game_sb_icon"
+                android:title="应用商店"/>
+            <item
+                android:id="@+id/item_exit"
                 android:icon="@mipmap/exit_icon"
-                android:id="@+id/item_exit"/>
+                android:title="退出应用"/>
         </menu>
     </item>
 

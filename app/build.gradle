@@ -8,8 +8,8 @@ android {
         applicationId "com.zt.txnews"
         minSdkVersion 11
         targetSdkVersion 23
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "2.0"
     }
     buildTypes {
         release {
@@ -32,8 +32,8 @@ repositories{
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:design:24.0.0-beta1'
-    compile files('libs/juhe_sdk_v_2_7.jar')
+    compile 'com.android.support:design:23.2.1'
+//    compile files('libs/juhe_sdk_v_2_7.jar')
     //手工加入
     compile project(':library')
     compile files('libs/picasso-2.5.2.jar')

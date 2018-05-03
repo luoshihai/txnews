@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\CODE\\txnews\\librarypullrefrefs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\CODE\\txnews\\librarypullrefrefs\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
         "merged": "D:\\Android Studio Project MySelf App\\txnews\\librarypullrefrefs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
         "source": "D:\\Android Studio Project MySelf App\\txnews\\librarypullrefrefs\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "D:\\Android Studio Project MySelf App\\txnews\\librarypullrefrefs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
         "source": "D:\\Android Studio Project MySelf App\\txnews\\librarypullrefrefs\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\CODE\\txnews\\librarypullrefrefs\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\CODE\\txnews\\librarypullrefrefs\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
     }
 ]

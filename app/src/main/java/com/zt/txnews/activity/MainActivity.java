@@ -111,13 +111,13 @@ public class MainActivity extends FragmentActivity implements MenuItem.OnMenuIte
         Menu menu = navigationView.getMenu();
         //item
         MenuItem luentan = menu.findItem(R.id.item_luentan);
-        MenuItem myCenter = menu.findItem(R.id.item_mycenter);
+//        MenuItem myCenter = menu.findItem(R.id.item_mycenter);
         MenuItem setting = menu.findItem(R.id.item_setting);
         MenuItem yuletueijing = menu.findItem(R.id.item_yule);
         MenuItem exit = menu.findItem(R.id.item_exit);
 
         luentan.setOnMenuItemClickListener(this);
-        myCenter.setOnMenuItemClickListener(this);
+//        myCenter.setOnMenuItemClickListener(this);
         setting.setOnMenuItemClickListener(this);
         yuletueijing.setOnMenuItemClickListener(this);
         exit.setOnMenuItemClickListener(this);
